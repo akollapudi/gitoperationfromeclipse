@@ -11,7 +11,7 @@ public class Newfile {
 		System.out.println("Now the output is redirected!");
 		
 		System.out.println("Now the output is redirected!");
-		System.out.println("Now the output is redirected!");
+		System.out.println("Now !");
 	}
 
 }
