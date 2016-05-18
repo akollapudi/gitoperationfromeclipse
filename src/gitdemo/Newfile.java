@@ -5,6 +5,7 @@ public class Newfile {
 		try {
 			
 		System.out.println("Now the output is redirected!");
+		System.out.println("Now the output is redirected!");
 		} catch(Exception e) {}
 	}
 
